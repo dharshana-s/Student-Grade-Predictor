@@ -1,9 +1,9 @@
 # Student-Grade-Predictor
 It contains program for predicting the student's grade, you enter n number of subject's marks and calculate the grade. The programming language used here is JAVA.
 
-import java.util.Scanner;
-public class StudentGradePredictor
-{
+	import java.util.Scanner;
+	public class StudentGradePredictor
+	{
 	static float SumOfMarks(int[] marks)
 	{
 		int add = marks[0];
@@ -58,5 +58,5 @@ public class StudentGradePredictor
 			System.out.println("Grade : Fail");
 		}
 	}
-
-}
+	
+ 	}
